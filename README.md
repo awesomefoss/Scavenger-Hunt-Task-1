@@ -45,7 +45,7 @@ I've answered the first question to demonstrate how it's done.
 
 5. Your Pull request have been created successfully.
    
-<img width="810" alt="Made PR" src="https://github.com/awesomefoss/Scavenger-Hunt-Task-1/assets/96643952/ed170d9a-f7e5-4887-9496-3e610077c96c">
+<img width="798" alt="Made PR" src="https://github.com/awesomefoss/Scavenger-Hunt-Task-1/assets/96643952/3db00167-d9c6-4bc2-8f02-2b610968cde4">
 
 ## Yayy!!🥳✨ 
-## Successfully completed the first task and your very first step towards copntribution. 
+## Successfully completed the first task and your very first step towards contributing to a repository. 
