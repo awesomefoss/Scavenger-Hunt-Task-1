@@ -30,7 +30,7 @@ To create a "New" branch Write "New" and click on Create branch: New from 'main'
 ## Let's get started with our first task of this Scavenger hunt.
 
 1. Read the poetry from the "poetry.txt" file. 
-2. Answer all the questions in "task.txt" based on the given poetry. You need to make changes directly in your "New" branch "task.txt" file like shown in the example here. And then commit the changes.
+2. Answer all the questions in "task.txt" based on the given poetry. You need to make changes directly in your "New" branch in "task.txt" file, like shown in the example here and then commit the changes.
 I've answered the first question to demonstrate how it's done. 
 
 <img width="1154" alt="commit changes" src="https://github.com/awesomefoss/Scavenger-Hunt-Task-1/assets/96643952/b1a6ebd7-47a5-4156-8cd4-dc0d1f1c7a0c">
