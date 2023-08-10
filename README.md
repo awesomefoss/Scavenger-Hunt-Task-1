@@ -11,7 +11,7 @@ Click on the "fork" button. After clicking on the button you'll get this page on
 ### **Step 02**
 Click "Create fork". 
 **Yayy!🥳** Now you've created your own copy of this repository and now you're all set to get started!
-After forking you've to create a new branch to get started with your task. Let's check it out how it's done..
+After forking you've to create a new branch to get started with your task. Let's check it out how it's done.
 ## How to create a "New" Branch ?
 
 ### **Step 01**
