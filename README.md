@@ -10,7 +10,7 @@ Click on the "fork" button. After clicking on the button you'll get this page on
 
 ### **Step 02**
 Click "Create fork". 
-Yayy!🥳 Now you've created your own copy of this repository and now you're all set to get started!
+**Yayy!🥳** Now you've created your own copy of this repository and now you're all set to get started!
 After forking you've to create a new branch to get started with your task. Let's check it out how it's done..
 ## How to create a "New" Branch ?
 
@@ -29,7 +29,7 @@ To create a "New" branch Write "New" and click on Create branch: New from 'main'
 
 ## Let's get started with our first task of this Scavenger hunt.
 
-### Rules for this task: 
+### Rules: 
 
 You have to add one or few lines to the existing poetry in "Poetry.txt" file. Here are few rules on how to add to the same:
 
@@ -43,8 +43,22 @@ You have to add one or few lines to the existing poetry in "Poetry.txt" file. He
 
 **5. Rhythmic Flow**: Consider the rhythm of your poem. The choice of words and the arrangement of stressed and unstressed syllables can create a pleasing rhythm that enhances the poem's musicality.
 
+### Steps:
 
+1. By following the given steps fork this repository and create a new branch to start working on this project.
+2. Adding your contribution in the "Poetry.txt" file. By editing the file in your "New" branch.
+<img width="1384" alt="Contribution" src="https://github.com/awesomefoss/Scavenger-Hunt-Task-1/assets/96643952/5c357a34-7e45-4e76-93a3-26623d0dcb00">
 
+3. After editing the file in your repository you're all set to open a pull request. Let's see how the same is done:
+<img width="998" alt="Compare and create pull request" src="https://github.com/awesomefoss/Scavenger-Hunt-Task-1/assets/96643952/bd487d11-ea84-421e-863a-66b4b7d85a18">
+
+Here click on "Compare and pull request"
+
+<img width="936" alt="Create pull request" src="https://github.com/awesomefoss/Scavenger-Hunt-Task-1/assets/96643952/09c48556-d672-4334-bea4-c0c8b303cc39">
+
+Here click on "Create pull request"
+
+<img width="926" alt="Created Pull Request" src="https://github.com/awesomefoss/Scavenger-Hunt-Task-1/assets/96643952/36f4816a-3114-4828-9b91-0eb71d87dca1">
 
 ## Yayy!!🥳✨ 
 ## Successfully completed the first task and your very first step towards contributing to a repository. 
