@@ -15,7 +15,7 @@ After forking you've to create a new branch to get started with your task. Let's
 ## How to create a "New" Branch ?
 
 ### **Step 01**
-As now you've forked this repository and you've a copy of the main repository for yourselves, you can see the number of branch/branches your copy has. By clicking "main". As shown in the image you'll get the names of all your branches. 
+As now you've forked this repository and you've a copy of the main repository for yourselves, you can see the number of branch/branches your copy has, by clicking "main". As shown in the image you'll get the names of all your branches. 
 
 <img width="820" alt="Branch" src="https://github.com/awesomefoss/Scavenger-Hunt-Task-1/assets/96643952/438fb7cf-8a02-4f86-881c-4107196a1daa">
 
