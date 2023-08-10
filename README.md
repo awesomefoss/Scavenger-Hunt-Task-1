@@ -29,6 +29,21 @@ To create a "New" branch Write "New" and click on Create branch: New from 'main'
 
 ## Let's get started with our first task of this Scavenger hunt.
 
+### Rules for this task: 
+
+You have to add one or few lines to the existing poetry in "Poetry.txt" file. Here are few rules on how to add to the same:
+
+**1. Maintain Consistency**: Keep a consistent theme, tone, or imagery throughout the poem. This helps the poem feel cohesive and focused.
+
+**2. Expand on Ideas**: If you've introduced an idea or concept in the earlier lines, use the subsequent lines to delve deeper into that idea, providing more details, emotions, or perspectives.
+
+**3. Vary Line Lengths**: Experiment with different line lengths. Short lines can create a sense of urgency or contemplation, while longer lines can offer a more leisurely and expansive feel.
+
+**4. Use Metaphors and Similes**: Metaphors and similes add layers of meaning to your poetry. They can help you convey complex emotions or concepts in a relatable way.
+
+**5. Rhythmic Flow**: Consider the rhythm of your poem. The choice of words and the arrangement of stressed and unstressed syllables can create a pleasing rhythm that enhances the poem's musicality.
+
+
 
 
 ## Yayy!!🥳✨ 
